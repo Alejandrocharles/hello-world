@@ -1,7 +1,7 @@
 # Hello-World-
 Aprender el manejo del github - branch . modificar algún archivo, commit, pullrequest, merge.
 
-# 
+# Sergio Tomás Vargas Villarreal was here.
 
 # Alejandro Charles Gonzalez
 # ISC, MCC, MATI / 2
